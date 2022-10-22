@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kouam Franck (@kofra-jg)
 - 👀 I’m interested in computers
-- 🌱 I’m currently learning AI
+- 🌱 I’m currently learning Low level programming and DevOps in ALX Africa and computer engeneering in IAI
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me on kouamfranck96@gmail.com and @kofra_jg on Twitter and Telegram
 
