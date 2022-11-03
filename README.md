@@ -2,7 +2,7 @@
 - 👀 I’m interested in computers
 - 🌱 I’m currently learning Low level programming and DevOps in ALX Africa and computer engeneering in IAI
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 You can reach me on kouamfranck96@gmail.com and @franckouam on Twitter and Telegram
+- 📫 You can reach me on kouamfranck96@gmail.com and @franckouam on Twitter[https://twitter.com/franckouam] and Telegram[https://t.me/franckouam]
 - 💫 Fact about me: I love the speed, I like when everthing is fast
 
 <!---
